@@ -3,6 +3,7 @@
 
 ## Overview
 This project analyzes data science job salaries using two key machine learning techniques: **K-nearest neighbors (KNN)** for salary prediction and **K-means clustering** for identifying salary clusters. The aim is to gain insights into the factors influencing salary levels and to discover distinct salary patterns within the dataset.
+Checkout the publication here: https://doi.org/10.37934/arca.35.1.1020
 
 ## Dataset
 We used a publicly available dataset from Kaggle that contains data on data science job salaries:
